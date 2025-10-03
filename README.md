@@ -1,12 +1,32 @@
-# React + Vite
+# SparkFund 💡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SparkFund** is a modern crowdfunding platform where ideas meet supporters.  
+Built with React (frontend) and Django (backend), it enables creators to launch projects and backers to fund them easily.  
 
-Currently, two official plugins are available:
+🌐 Live Demo: [spark-fund.vercel.app](https://spark-fund.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Create, edit, and manage crowdfunding projects  
+- Browse and support projects from different categories  
+- Secure authentication system for users  
+- Responsive and modern UI design  
+- Real-time project updates  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Django REST Framework  
+- **Database:** PostgreSQL  
+- **Deployment:** Vercel (frontend), Heroku/Render (backend)  
+
+---
+
+## 📦 Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/iSamerRizq74/SparkFund.git
+cd SparkFund
